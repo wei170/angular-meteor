@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'angular2-compilers',
+  name: 'wei170:angular2-compilers',
   version: '0.6.6',
   summary: 'Angular 2 Templates, HTML and TypeScript compilers for Meteor',
   git: 'https://github.com/Urigo/angular2-meteor/',
